@@ -13,9 +13,9 @@ From your local system (from the mail-stack directory), run:
 
     sprinkle -c -s config/install.rb
 
-Extra options
--t option runs as a test to see if it errors or not, but does no real changes
--v option runs with verbose messages
+Extra options:
+-t option runs as a test to see if it errors or not, but does no real changes.
+-v option runs with verbose messages.
 
 After you've waited for everything to run, you should have a provisioned slice.
 Go forth and install your custom configurations.
